@@ -53,4 +53,9 @@ University of the People · 2018 to 2023
 - Cybersecurity Fundamentals & Ethical Computing
 
 ### 🌐 Languages
-Arabic (Native) · English (Proficient) · Greek (Conversational)
+
+| Language | Proficiency |
+|:--|:--|
+| Arabic | Native |
+| English | Proficient |
+| Greek | Conversational |
