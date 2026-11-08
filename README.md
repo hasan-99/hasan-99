@@ -8,17 +8,23 @@ Founder · Software & AI Engineer with 5+ years across C#/.NET, microservices, a
 
 ### 🔭 What I'm building
 
-| Project | What it does |
-|:--|:--|
-| **[Nexus AI](https://hasan-99.github.io/Nexus-AI/index.html)** | Cyprus digital studio for web development, AI, SEO, content, automation, and backend engineering. |
-| **[Learn Claude Code](https://hasan-99.github.io/claude-hjahouse.me/)** | Interactive learning modules that teach Claude Code through hands-on practice. |
-| **[SkyOps](https://github.com/hasan-99/SkyOps)** | A complete framework for backend teams to build well-structured, high-quality C#/.NET software, with guided implementation and code review workflows. |
-| **[AI Cyprus Expo Interactive Floor Plan](https://hasan-99.github.io/ai-cyprus-expo-interactive-floor-plan/)** | Take a 3D first look at the AI Cyprus Expo venue at Carob Mill, Limassol, and explore its interactive floor plan before you arrive. |
-| **[Refal-Agent](https://github.com/hasan-99/Refal-Agent)** | WhatsApp AI agent for Refalco Group, using RAG, embeddings, and vector search over approved company knowledge to answer customer questions and support lead and booking workflows. |
-| **[kucoin_trading](https://github.com/hasan-99/kucoin_trading)** | Local-first KuCoin futures lab for strategy research, backtesting, paper trading, and dashboard analytics. |
-| **[jahoush-builders](https://hasan-99.github.io/jahoush-builders/)** | Website for a Cyprus construction company, showcasing its services, developments, and property projects. |
+#### 🧠 AI & Developer Tools
 
-📄 **[View my Full CV](https://hasan-99.github.io/Nexus-AI/Hasan_Jahoush_CV.html)**
+- **[Nexus AI](https://hasan-99.github.io/Nexus-AI/index.html)**: A Cyprus digital studio for web, AI, SEO, content, automation, and backend engineering.
+- **[Learn Claude Code](https://hasan-99.github.io/claude-hjahouse.me/)**: Interactive, hands-on modules for learning Claude Code.
+- **[SkyOps](https://github.com/hasan-99/SkyOps)**: A complete framework for backend teams to build well-structured, high-quality C#/.NET software, with guided implementation and code review workflows.
+- **[Refal-Agent](https://github.com/hasan-99/Refal-Agent)**: A WhatsApp AI agent for Refalco Group, using RAG, embeddings, and vector search over approved company knowledge to answer customer questions and support lead and booking workflows.
+
+#### 🌍 Interactive Experiences
+
+- **[AI Cyprus Expo Interactive Floor Plan](https://hasan-99.github.io/ai-cyprus-expo-interactive-floor-plan/)**: Explore the Expo venue in 3D and get a first look at the floor plan at Carob Mill, Limassol.
+
+#### 🏗️ Business & Research Projects
+
+- **[Jahoush Builders](https://hasan-99.github.io/jahoush-builders/)**: A polished website showcasing a Cyprus construction company, its services, developments, and properties.
+- **[KuCoin Trading Lab](https://github.com/hasan-99/kucoin_trading)**: A local-first workspace for futures strategy research, backtesting, paper trading, and analytics.
+
+📄 **[Explore my Full CV](https://hasan-99.github.io/Nexus-AI/Hasan_Jahoush_CV.html)**
 ### 💼 Experience
 **Odyssey Cybersecurity**: Software & AI Engineer (Aug 2024 to Present)
 - Integrate complex, large-scale systems in C#/.NET, wiring internal platforms, services, and external data into reliable end-to-end workflows.
