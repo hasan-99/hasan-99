@@ -3,7 +3,7 @@
 Founder · Software & AI Engineer — 5+ years across C#/.NET, microservices, and AI in production (RAG pipelines, AI agents, automation wired into live data and tools).
 
 📍 Nicosia, Cyprus
-📧 jahousenexus@gmail.com
+📧 hasan.cy99@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/hasan-jahouse-bb457419a/)
 
 ### 🔭 What I'm building
