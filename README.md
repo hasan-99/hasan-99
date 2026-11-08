@@ -54,8 +54,6 @@ University of the People · 2018 to 2023
 
 ### 🌐 Languages
 
-| Language | Proficiency |
-|:--|:--|
-| Arabic | Native |
-| English | Proficient |
-| Greek | Conversational |
+- **Arabic** · Native
+- **English** · Proficient
+- **Greek** · Conversational
