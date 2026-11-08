@@ -12,8 +12,8 @@ Founder · Software & AI Engineer with 5+ years across C#/.NET, microservices, a
 |:--|:--|
 | **[Nexus AI](https://hasan-99.github.io/Nexus-AI/index.html)** | Cyprus digital studio for web development, AI, SEO, content, automation, and backend engineering. |
 | **[Learn Claude Code](https://hasan-99.github.io/claude-hjahouse.me/)** | Interactive learning modules that teach Claude Code through hands-on practice. |
-| **[SkyOps](https://github.com/hasan-99/SkyOps)** | Claude Code skills and agents for C#/.NET code review and delivery workflows. |
-| **[AI Cyprus Expo Interactive Floor Plan](https://github.com/hasan-99/ai-cyprus-expo-interactive-floor-plan)** | Three.js venue explorer for the AI Cyprus Expo at Carob Mill in Limassol. |
+| **[SkyOps](https://github.com/hasan-99/SkyOps)** | A Claude Code toolkit that brings specialized AI skills and agents to C#/.NET code reviews and software delivery. |
+| **[AI Cyprus Expo Interactive Floor Plan](https://github.com/hasan-99/ai-cyprus-expo-interactive-floor-plan)** | Take a 3D first look at the AI Cyprus Expo venue at Carob Mill, Limassol, and explore its interactive floor plan before you arrive. |
 | **[Refal-Agent](https://github.com/hasan-99/Refal-Agent)** | WhatsApp business agent that answers customer questions from approved company knowledge and supports lead, booking, and human handoff workflows. |
 | **[kucoin_trading](https://github.com/hasan-99/kucoin_trading)** | Local-first KuCoin futures lab for strategy research, backtesting, paper trading, and dashboard analytics. |
 | **[jahoush-builders](https://github.com/hasan-99/jahoush-builders)** | Website for a Cyprus construction company, showcasing its services, developments, and property projects. |
