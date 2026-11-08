@@ -1,9 +1,12 @@
 ## Hi, I'm Hasan Jahoush 👋
 
-**Founder · Software & AI Engineer**  
-5+ years building production software and AI across C#/.NET, microservices, RAG, AI agents, and automation integrated with live data and tools.
+**Founder · Software & AI Engineer**
 
-📍 Nicosia, Cyprus · 📧 [hasan.cy99@gmail.com](mailto:hasan.cy99@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/hasan-jahouse-bb457419a/)
+I build production software and AI systems, from C#/.NET microservices to RAG, AI agents, and automation connected to real-world data and tools.
+
+📍 **Based in:** Nicosia, Cyprus  
+✉️ **Email:** [hasan.cy99@gmail.com](mailto:hasan.cy99@gmail.com)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hasan-jahouse-bb457419a/)
 ### 🔭 What I'm building
 
 #### 🧠 AI & Developer Tools
