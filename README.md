@@ -37,9 +37,14 @@ AI Agents & LLM Apps · RAG Pipelines · Multi-Agent Workflows · Conversational
 - **Data & Infra:** SQL Server, Supabase/Postgres, Impala, Vercel, Railway
 - **Tools & Practices:** Docker, Git/CI-CD, JIRA, Secure Coding, RLS/Auth
 
-### 🎓 Education
-B.Sc. Computer Science, University of the People (2018 to 2023)
-Certifications: AI Engineering & Data Preparation for LLMs · Google IT Support Professional · Cybersecurity Fundamentals & Ethical Computing
+### 🎓 Education & Certifications
+**B.Sc. in Computer Science**  
+University of the People · 2018 to 2023
+
+**Certifications**
+- AI Engineering & Data Preparation for LLMs
+- Google IT Support Professional
+- Cybersecurity Fundamentals & Ethical Computing
 
 ### 🌐 Languages
 Arabic (Native) · English (Proficient) · Greek (Conversational)
