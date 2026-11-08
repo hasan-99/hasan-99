@@ -1,72 +1,53 @@
-<div align="center">
+## Hi, I'm Hasan Jahoush 👋
 
-# Hasan Jahoush
+Founder · Software & AI Engineer with 5+ years across C#/.NET, microservices, and AI in production (RAG pipelines, AI agents, automation wired into live data and tools).
 
-### Founder · Software & AI Engineer
+📍 Nicosia, Cyprus
+📧 hasan.cy99@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/hasan-jahouse-bb457419a/)
 
-Building production software, AI systems, and digital products in Cyprus.
+### 🔭 What I'm building
+- **[Nexus AI](https://hasan-99.github.io/Nexus-AI/index.html)**: Cyprus digital studio for web, AI, SEO, content, automation, and backend engineering.
+- **[Learn Claude Code](https://hasan-99.github.io/claude-hjahouse.me/)**: interactive modules for learning Claude Code.
+- **[SkyOps](https://github.com/hasan-99/SkyOps)**: Claude Code skills, agents, and SRV framework for C#/.NET review and delivery workflows.
+- **[AI Cyprus Expo Interactive Floor Plan](https://github.com/hasan-99/ai-cyprus-expo-interactive-floor-plan)**: interactive Three.js venue explorer for the AI Cyprus Expo at Carob Mill, Limassol.
+- **[Refal-Agent](https://github.com/hasan-99/Refal-Agent)**
+- **[kucoin_trading](https://github.com/hasan-99/kucoin_trading)**
+- **[jahoush-builders](https://github.com/hasan-99/jahoush-builders)**
+- 📄 [Full CV](https://hasan-99.github.io/Nexus-AI/Hasan_Jahoush_CV.html)
 
-[Portfolio](https://hasan-99.github.io/Nexus-AI/index.html) · [LinkedIn](https://www.linkedin.com/in/hasan-jahouse-bb457419a/) · [Email](mailto:hasan.cy99@gmail.com) · [Full CV](https://hasan-99.github.io/Nexus-AI/Hasan_Jahoush_CV.html)
+### 💼 Experience
+**Odyssey Cybersecurity**: Software & AI Engineer (Aug 2024 to Present)
+- Integrate complex, large-scale systems in C#/.NET, wiring internal platforms, services, and external data into reliable end-to-end workflows.
+- Automate operations with AI, building LLM-powered pipelines that classify, enrich, and route work that used to be manual.
+- Engineer big-data pipelines that turn high-volume raw threat intel into structured, queryable datasets.
+- Build secure backend services with system hardening and secret isolation in security-critical environments.
 
-📍 Nicosia, Cyprus · 5+ years in software engineering
+**TechLink**: Software Engineer (Oct 2022 to Aug 2024)
+- Delivered enterprise software in C#, .NET, and microservices, owning services from design through deployment.
+- Built responsive frontends in Angular and React (TypeScript) for internal business users.
+- Engineered event-driven architecture with RabbitMQ, scaling background processing under peak load.
+- Optimized SQL queries and schemas, cutting key query latency and improving reliability.
 
-</div>
+### 🧠 AI Engineering
+AI Agents & LLM Apps · RAG Pipelines · Multi-Agent Workflows · Conversational Voice AI (Retell AI, ElevenLabs, Telnyx)
 
-## About
+### 🛠️ Stack
+- **AI & LLM:** AI Agents, LLM Apps, RAG, Claude API, OpenRouter, Prompt Engineering, Multi-Agent, Embeddings, MCP
+- **Backend:** C#/.NET, RESTful APIs, Microservices, RabbitMQ, Node.js
+- **Frontend:** React/Next.js, Angular, TypeScript, Tailwind, Bootstrap
+- **Mobile:** React Native, Expo
+- **Data & Infra:** SQL Server, Supabase/Postgres, Impala, Vercel, Railway
+- **Tools & Practices:** Docker, Git/CI-CD, JIRA, Secure Coding, RLS/Auth
 
-Software and AI engineer focused on C#/.NET, microservices, and production AI. I build RAG pipelines, AI agents, automation, and reliable services that connect data, systems, and people.
-
-## Featured Projects
-
-| Project | About |
-|:--|:--|
-| [Nexus AI](https://hasan-99.github.io/Nexus-AI/index.html) | Digital studio for web, AI, SEO, content, automation, and backend engineering. |
-| [Learn Claude Code](https://hasan-99.github.io/claude-hjahouse.me/) | Interactive modules for learning Claude Code. |
-| [SkyOps](https://github.com/hasan-99/SkyOps) | Claude Code skills, agents, and SRV framework for C#/.NET review and delivery workflows. |
-| [AI Cyprus Expo Interactive Floor Plan](https://github.com/hasan-99/ai-cyprus-expo-interactive-floor-plan) | Three.js venue explorer for the AI Cyprus Expo at Carob Mill, Limassol. |
-| [Refal-Agent](https://github.com/hasan-99/Refal-Agent) | AI agent project. |
-| [kucoin_trading](https://github.com/hasan-99/kucoin_trading) | Trading project. |
-| [jahoush-builders](https://github.com/hasan-99/jahoush-builders) | Construction company website and project. |
-
-## Experience
-
-### Odyssey Cybersecurity · Software & AI Engineer
-*August 2024 to Present*
-
-- Integrate large-scale systems in C#/.NET, connecting internal platforms, services, and external data into end-to-end workflows.
-- Automate operations with AI pipelines that classify, enrich, and route work.
-- Engineer big-data pipelines that turn high-volume threat intelligence into structured, queryable datasets.
-- Build secure backend services with system hardening and secret isolation.
-
-### TechLink · Software Engineer
-*October 2022 to August 2024*
-
-- Delivered enterprise software in C#, .NET, and microservices from design through deployment.
-- Built responsive frontends in Angular and React with TypeScript.
-- Engineered event-driven systems with RabbitMQ for background processing.
-- Optimized SQL queries and schemas to improve latency and reliability.
-
-## Skills
-
-| Area | Technologies |
-|:--|:--|
-| AI & LLM | AI agents, LLM apps, RAG, Claude API, OpenRouter, prompt engineering, embeddings, MCP |
-| Backend | C#/.NET, REST APIs, microservices, RabbitMQ, Node.js |
-| Frontend | React/Next.js, Angular, TypeScript, Tailwind, Bootstrap |
-| Mobile | React Native, Expo |
-| Data & infrastructure | SQL Server, Supabase/Postgres, Impala, Vercel, Railway |
-| Tools & practices | Docker, Git/CI/CD, JIRA, secure coding, RLS/Auth |
-| Voice AI | Retell AI, ElevenLabs, Telnyx |
-
-## Education & Certifications
-
+### 🎓 Education & Certifications
 **B.Sc. in Computer Science**  
 University of the People · 2018 to 2023
 
+**Certifications**
 - AI Engineering & Data Preparation for LLMs
 - Google IT Support Professional
 - Cybersecurity Fundamentals & Ethical Computing
 
-## Languages
-
+### 🌐 Languages
 Arabic (Native) · English (Proficient) · Greek (Conversational)
