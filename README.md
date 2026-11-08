@@ -13,7 +13,7 @@ Founder · Software & AI Engineer with 5+ years across C#/.NET, microservices, a
 | **[Nexus AI](https://hasan-99.github.io/Nexus-AI/index.html)** | Cyprus digital studio for web development, AI, SEO, content, automation, and backend engineering. |
 | **[Learn Claude Code](https://hasan-99.github.io/claude-hjahouse.me/)** | Interactive learning modules that teach Claude Code through hands-on practice. |
 | **[SkyOps](https://github.com/hasan-99/SkyOps)** | A complete framework for backend teams to build well-structured, high-quality C#/.NET software, with guided implementation and code review workflows. |
-| **[AI Cyprus Expo Interactive Floor Plan](https://github.com/hasan-99/ai-cyprus-expo-interactive-floor-plan)** | Take a 3D first look at the AI Cyprus Expo venue at Carob Mill, Limassol, and explore its interactive floor plan before you arrive. |
+| **[AI Cyprus Expo Interactive Floor Plan](https://hasan-99.github.io/ai-cyprus-expo-interactive-floor-plan/)** | Take a 3D first look at the AI Cyprus Expo venue at Carob Mill, Limassol, and explore its interactive floor plan before you arrive. |
 | **[Refal-Agent](https://github.com/hasan-99/Refal-Agent)** | WhatsApp AI agent for Refalco Group, using RAG, embeddings, and vector search over approved company knowledge to answer customer questions and support lead and booking workflows. |
 | **[kucoin_trading](https://github.com/hasan-99/kucoin_trading)** | Local-first KuCoin futures lab for strategy research, backtesting, paper trading, and dashboard analytics. |
 | **[jahoush-builders](https://github.com/hasan-99/jahoush-builders)** | Website for a Cyprus construction company, showcasing its services, developments, and property projects. |
