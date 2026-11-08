@@ -10,6 +10,7 @@ Founder · Software & AI Engineer — 5+ years across C#/.NET, microservices, an
 - **[Nexus AI](https://hasan-99.github.io/Nexus-AI/index.html)** — Cyprus digital studio: web, AI, SEO, content, automation, and backend engineering.
 - **[Learn Claude Code](https://hasan-99.github.io/claude-hjahouse.me/)** — interactive, hands-on modules for learning Claude Code.
 - **[SkyOps](https://github.com/hasan-99/SkyOps)** — a Claude Code skills/agents/SRV framework for C#/.NET review and delivery workflows.
+- **[AI Cyprus Expo Interactive Floor Plan](https://github.com/hasan-99/ai-cyprus-expo-interactive-floor-plan)** — interactive Three.js venue explorer for the AI Cyprus Expo at Carob Mill, Limassol.
 - 📄 [Full CV](https://hasan-99.github.io/Nexus-AI/Hasan_Jahoush_CV.html)
 
 ### 💼 Experience
